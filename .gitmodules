@@ -1,0 +1,3 @@
+[submodule "vendor/extensions/translator"]
+	path = vendor/extensions/translator
+	url = git://github.com/cradle/radiant-translator-extension.git
