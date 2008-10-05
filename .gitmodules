@@ -1,3 +1,6 @@
 [submodule "vendor/extensions/translator"]
 	path = vendor/extensions/translator
 	url = git://github.com/cradle/radiant-translator-extension.git
+[submodule "vendor/extensions/copy_move"]
+	path = vendor/extensions/copy_move
+	url = http://github.com/pilu/radiant-copy-move.git
